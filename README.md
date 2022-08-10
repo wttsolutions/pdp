@@ -6,7 +6,9 @@
 🟢 - Node.js (backend)  
 🔴 - Other (frontend and backend)
 
+
 ## 🥉 Stage bronze 
+
 
 1. ⚪️ Write valid HTML5. [Validator](https://validator.w3.org/)
 2. ⚪️ Complete [Learn CSS](https://web.dev/learn/css/)
@@ -39,6 +41,20 @@
 29. 🟢 [.env](https://github.com/motdotla/dotenv)
 30. 🟢 [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 31. 🟢 [Docker](https://www.docker.com/), [Docker Compose](https://docs.docker.com/compose/) and [Node.js + Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/), [video tutorial](https://www.youtube.com/watch?v=v_GbcTpMTLE&list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&ab_channel=JavaScript.Ninja)
+32. Соглашения об именах https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0%D1%85_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+33. KISS (принцип) — Википедия https://ru.wikipedia.org/wiki/KISS_(%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF)
+34. YAGNI — Википедия https://ru.wikipedia.org/wiki/YAGNI
+35. Don’t repeat yourself (DRY) — Википедия https://ru.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself
+36. Чем хуже, тем лучше — Википедия https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC_%D1%85%D1%83%D0%B6%D0%B5,_%D1%82%D0%B5%D0%BC_%D0%BB%D1%83%D1%87%D1%88%D0%B5  
+37. Повторное использование кода — Википедия https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D0%B4%D0%B0
+38. Дзен Python на русском / Тяпк https://tyapk.ru/blog/post/the-zen-of-python
+39. Бритва Оккама — Википедия https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B8%D1%82%D0%B2%D0%B0_%D0%9E%D0%BA%D0%BA%D0%B0%D0%BC%D0%B0
+40. Разделение ответственности (Separation of concerns) — Википедия   https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8
+41. Закон Деметры (принцип наименьшего знания) — Википедия https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%94%D0%B5%D0%BC%D0%B5%D1%82%D1%80%D1%8B#:~:text=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%94%D0%B5%D0%BC%D0%B5%D1%82%D1%80%D1%8B%20(%D0%B0%D0%BD%D0%B3%D0%BB.,%D0%BD%D0%B0%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2%20(%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9).
+42. SOLID (объектно-ориентированное программирование) — Википедия https://ru.wikipedia.org/wiki/SOLID_(%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5), https://habr.com/ru/company/productivity_inside/blog/505430/
+43. "Low coupling, high cohesion" https://habr.com/ru/company/otus/blog/505852/
+44. Шаблоны проектирования https://habr.com/ru/company/vk/blog/325492/
+
 
 ## 🥈 Stage silver
 
@@ -72,7 +88,6 @@
 4. 🔵 [Performance](https://reactjs.org/docs/optimizing-performance.html)
 5. 🔵 [Testing library](https://testing-library.com/docs/react-testing-library/intro/)
 6. 🔵 [Application state management](https://kentcdodds.com/blog/application-state-management-with-react)
-7. 🟢 [SOLID](https://habr.com/ru/company/productivity_inside/blog/505430/)
 8. ⚪️ How to animate SVG with CSS / JS
 9. 🔴 [BigO notation](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
 10. 🟡 [Eslint configuring](https://eslint.org/docs/user-guide/configuring/)
