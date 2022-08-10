@@ -65,7 +65,7 @@
 5. 🔵 [HOC](https://reactjs.org/docs/higher-order-components.html)
 6. 🔵 [Render props](https://reactjs.org/docs/render-props.html)
 7. 🔵 How to write custom hooks, [for example useTimeout](https://usehooks-typescript.com/react-hook/use-timeout)
-8. 🔴 [PNG vs JPEG](https://web.dev/choose-the-right-image-format/)
+8. 🔴 форматы изображений в вебе: https://web.dev/choose-the-right-image-format/, https://habr.com/ru/post/594211/, 
 9. 🔴 [Debounce vs Throttle](https://css-tricks.com/debouncing-throttling-explained-examples/)
 10. 🔴 [Setup eslint](https://eslint.org/docs/user-guide/getting-started)
 11. 🔴 Publishing own code to npm / github registry: [React components to npm](https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/), [Github Packages](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages)
