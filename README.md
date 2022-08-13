@@ -54,6 +54,7 @@
 42. SOLID (объектно-ориентированное программирование) — Википедия https://ru.wikipedia.org/wiki/SOLID_(%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5), https://habr.com/ru/company/productivity_inside/blog/505430/
 43. "Low coupling, high cohesion" https://habr.com/ru/company/otus/blog/505852/, https://commons.wikimedia.org/wiki/File:CouplingVsCohesion.svg?uselang=ru
 44. Шаблоны проектирования https://habr.com/ru/company/vk/blog/325492/
+45. IndexedDB https://learn.javascript.ru/indexeddb#itogo
 
 
 ## 🥈 Stage silver
