@@ -55,6 +55,7 @@
 43. "Low coupling, high cohesion" https://habr.com/ru/company/otus/blog/505852/, https://commons.wikimedia.org/wiki/File:CouplingVsCohesion.svg?uselang=ru
 44. Шаблоны проектирования https://habr.com/ru/company/vk/blog/325492/
 45. IndexedDB https://learn.javascript.ru/indexeddb#itogo
+46. Событийный цикл: микрозадачи и макрозадачи https://learn.javascript.ru/event-loop
 
 
 ## 🥈 Stage silver
