@@ -57,6 +57,7 @@
 45. IndexedDB https://learn.javascript.ru/indexeddb#itogo
 46. Событийный цикл: микрозадачи и макрозадачи https://learn.javascript.ru/event-loop
 47. Структуры данных и алгоритмы https://habr.com/ru/company/alconost/blog/419685/, https://github.com/trekhleb/javascript-algorithms
+48. UX: 12 законов UX-редактуры https://vk.com/doc12071957_635885583?hash=x2FbnhNcBmdupmkgaPapX4TXSv9zjqTEUN521z1Xe5T&dl=QzskxZ8CPsyZhCoZQqGMtOIZ2d9RaBta7gzLluHmFzP
 
 
 ## 🥈 Stage silver
