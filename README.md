@@ -56,6 +56,7 @@
 44. Шаблоны проектирования https://habr.com/ru/company/vk/blog/325492/
 45. IndexedDB https://learn.javascript.ru/indexeddb#itogo
 46. Событийный цикл: микрозадачи и макрозадачи https://learn.javascript.ru/event-loop
+47. Структуры данных и алгоритмы https://habr.com/ru/company/alconost/blog/419685/, https://github.com/trekhleb/javascript-algorithms
 
 
 ## 🥈 Stage silver
