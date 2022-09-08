@@ -94,8 +94,7 @@
 8. ⚪️ How to animate SVG with CSS / JS
 9. 🔴 [BigO notation](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
 10. 🟡 [Eslint configuring](https://eslint.org/docs/user-guide/configuring/)
-11. 🟡 [How Webpack works](https://webpack.js.org/concepts/), [Webpack configuring](https://webpack.js.org/configuration/)
-11.5. 🔴 [Rollup](https://rollupjs.org/guide/en/)
+11. 🟡 Is 2022 still competitive after only using webpack? Rollup and esbuild from getting started to giving up https://qdmana.com/2022/118/202204282228169495.html
 12. 🔴 [Making web fast](https://web.dev/fast/)
 13. ⚪️ [How browser renders page](https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969)
 14. ⚪️ [Avoid Large, Complex Layouts and Layout Thrashing](https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing)
