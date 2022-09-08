@@ -74,7 +74,6 @@
 10. 🔴 [Setup eslint](https://eslint.org/docs/user-guide/getting-started)
 11. 🔴 Publishing own code to npm / github registry: [React components to npm](https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/), [Github Packages](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages)
 12. 🔴 [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web): SPA vs SSR vs SSG
-13. 🔴 [Rollup](https://rollupjs.org/guide/en/)
 14. 🟢 [Are Node.js modules singletons?](https://medium.com/@lazlojuly/are-node-js-modules-singletons-764ae97519af)
 15. 🟢 [Node.js module.exports vs. exports](https://medium.com/free-code-camp/node-js-module-exports-vs-exports-ec7e254d63ac)
 16. 🟢 [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
@@ -96,6 +95,7 @@
 9. 🔴 [BigO notation](https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/)
 10. 🟡 [Eslint configuring](https://eslint.org/docs/user-guide/configuring/)
 11. 🟡 [How Webpack works](https://webpack.js.org/concepts/), [Webpack configuring](https://webpack.js.org/configuration/)
+11.5. 🔴 [Rollup](https://rollupjs.org/guide/en/)
 12. 🔴 [Making web fast](https://web.dev/fast/)
 13. ⚪️ [How browser renders page](https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969)
 14. ⚪️ [Avoid Large, Complex Layouts and Layout Thrashing](https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing)
