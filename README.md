@@ -41,9 +41,8 @@
 30. 🟢 [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 31. 🟢 [Docker](https://www.щзdocker.com/), [Docker Compose](https://docs.docker.com/compose/) and [Node.js + Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/), [video tutorial](https://www.youtube.com/watch?v=v_GbcTpMTLE&list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&ab_channel=JavaScript.Ninja)
 32. Соглашения об именах https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0%D1%85_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
-правильное именование переменных (https://learn.javascript.ru/variable-names)
-переменный состояния - существительные.
-имена функций действия - глаголы.
+Правильное именование переменных (https://learn.javascript.ru/variable-names)
+Совершенный код: именование в программировании https://ru.hexlet.io/blog/posts/naming-in-programming
 34. KISS (принцип) — Википедия https://ru.wikipedia.org/wiki/KISS_(%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF)
 35. YAGNI — Википедия https://ru.wikipedia.org/wiki/YAGNI
 36. Don’t repeat yourself (DRY) — Википедия https://ru.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself
