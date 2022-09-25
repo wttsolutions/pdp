@@ -17,7 +17,6 @@
 5. ⚪️ [Flex Box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 6. ⚪️ [Grids](https://css-tricks.com/snippets/css/complete-guide-grid/)
 7. ⚪️ Animations [Article #1](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations), [Article #2](https://thoughtbot.com/blog/css-animation-for-beginners)
-8. ⚪️ [Sticky footer layout](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Sticky_footers)
 9. ⚪️ [Position sticky](https://medium.com/web-standards/sticky-bc7ff7088693)
 10. ⚪️ [Understand Box sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
 11. 🟡 Read all Part #1 from [learn.javascript](https://learn.javascript.ru/)
@@ -40,24 +39,27 @@
 28. 🟢 [Session Management in Node.js](https://developer.okta.com/blog/2021/06/07/session-mgmt-node)
 29. 🟢 [.env](https://github.com/motdotla/dotenv)
 30. 🟢 [Cross-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-31. 🟢 [Docker](https://www.docker.com/), [Docker Compose](https://docs.docker.com/compose/) and [Node.js + Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/), [video tutorial](https://www.youtube.com/watch?v=v_GbcTpMTLE&list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&ab_channel=JavaScript.Ninja)
+31. 🟢 [Docker](https://www.щзdocker.com/), [Docker Compose](https://docs.docker.com/compose/) and [Node.js + Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/), [video tutorial](https://www.youtube.com/watch?v=v_GbcTpMTLE&list=PLvTBThJr861x2qFBVwOlqIrbaft-Im-0u&ab_channel=JavaScript.Ninja)
 32. Соглашения об именах https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0%D1%85_(%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
-33. KISS (принцип) — Википедия https://ru.wikipedia.org/wiki/KISS_(%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF)
-34. YAGNI — Википедия https://ru.wikipedia.org/wiki/YAGNI
-35. Don’t repeat yourself (DRY) — Википедия https://ru.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself
-36. Чем хуже, тем лучше — Википедия https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC_%D1%85%D1%83%D0%B6%D0%B5,_%D1%82%D0%B5%D0%BC_%D0%BB%D1%83%D1%87%D1%88%D0%B5  
-37. Повторное использование кода — Википедия https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D0%B4%D0%B0
-38. Дзен Python на русском / Тяпк https://tyapk.ru/blog/post/the-zen-of-python
-39. Бритва Оккама — Википедия https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B8%D1%82%D0%B2%D0%B0_%D0%9E%D0%BA%D0%BA%D0%B0%D0%BC%D0%B0
-40. Разделение ответственности (Separation of concerns) — Википедия   https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8
-41. Закон Деметры (принцип наименьшего знания) — Википедия https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%94%D0%B5%D0%BC%D0%B5%D1%82%D1%80%D1%8B#:~:text=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%94%D0%B5%D0%BC%D0%B5%D1%82%D1%80%D1%8B%20(%D0%B0%D0%BD%D0%B3%D0%BB.,%D0%BD%D0%B0%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2%20(%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9).
-42. SOLID (объектно-ориентированное программирование) — Википедия https://ru.wikipedia.org/wiki/SOLID_(%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5), https://habr.com/ru/company/productivity_inside/blog/505430/
-43. "Low coupling, high cohesion" https://habr.com/ru/company/otus/blog/505852/, https://commons.wikimedia.org/wiki/File:CouplingVsCohesion.svg?uselang=ru
-44. Шаблоны проектирования https://habr.com/ru/company/vk/blog/325492/
-45. IndexedDB https://learn.javascript.ru/indexeddb#itogo
-46. Событийный цикл: микрозадачи и макрозадачи https://learn.javascript.ru/event-loop
-47. Структуры данных и алгоритмы https://habr.com/ru/company/alconost/blog/419685/, https://github.com/trekhleb/javascript-algorithms, https://t.me/kazarin_online/3257
-48. UX: 12 законов UX-редактуры https://vk.com/doc12071957_635885583?hash=x2FbnhNcBmdupmkgaPapX4TXSv9zjqTEUN521z1Xe5T&dl=QzskxZ8CPsyZhCoZQqGMtOIZ2d9RaBta7gzLluHmFzP
+правильное именование переменных (https://learn.javascript.ru/variable-names)
+переменный состояния - существительные.
+имена функций действия - глаголы.
+34. KISS (принцип) — Википедия https://ru.wikipedia.org/wiki/KISS_(%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF)
+35. YAGNI — Википедия https://ru.wikipedia.org/wiki/YAGNI
+36. Don’t repeat yourself (DRY) — Википедия https://ru.wikipedia.org/wiki/Don%E2%80%99t_repeat_yourself
+37. Чем хуже, тем лучше — Википедия https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC_%D1%85%D1%83%D0%B6%D0%B5,_%D1%82%D0%B5%D0%BC_%D0%BB%D1%83%D1%87%D1%88%D0%B5  
+38. Повторное использование кода — Википедия https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D0%B4%D0%B0
+39. Дзен Python на русском / Тяпк https://tyapk.ru/blog/post/the-zen-of-python
+40. Бритва Оккама — Википедия https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B8%D1%82%D0%B2%D0%B0_%D0%9E%D0%BA%D0%BA%D0%B0%D0%BC%D0%B0
+41. Разделение ответственности (Separation of concerns) — Википедия   https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8
+42. Закон Деметры (принцип наименьшего знания) — Википедия https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%94%D0%B5%D0%BC%D0%B5%D1%82%D1%80%D1%8B#:~:text=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%94%D0%B5%D0%BC%D0%B5%D1%82%D1%80%D1%8B%20(%D0%B0%D0%BD%D0%B3%D0%BB.,%D0%BD%D0%B0%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2%20(%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9).
+43. SOLID (объектно-ориентированное программирование) — Википедия https://ru.wikipedia.org/wiki/SOLID_(%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5), https://habr.com/ru/company/productivity_inside/blog/505430/
+44. "Low coupling, high cohesion" https://habr.com/ru/company/otus/blog/505852/, https://commons.wikimedia.org/wiki/File:CouplingVsCohesion.svg?uselang=ru
+45. Шаблоны проектирования https://habr.com/ru/company/vk/blog/325492/
+46. IndexedDB https://learn.javascript.ru/indexeddb#itogo
+47. Событийный цикл: микрозадачи и макрозадачи https://learn.javascript.ru/event-loop
+48. Структуры данных и алгоритмы https://habr.com/ru/company/alconost/blog/419685/, https://github.com/trekhleb/javascript-algorithms, https://t.me/kazarin_online/3257
+49. UX: 12 законов UX-редактуры https://vk.com/doc12071957_635885583?hash=x2FbnhNcBmdupmkgaPapX4TXSv9zjqTEUN521z1Xe5T&dl=QzskxZ8CPsyZhCoZQqGMtOIZ2d9RaBta7gzLluHmFzP
 
 
 ## 🥈 Stage silver
@@ -82,6 +84,7 @@
 19. 🟡 [Server-sent events](https://learn.javascript.ru/server-sent-events)
 20. 🔵 [Clean Architecture on Frontend](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311), [RU Article](https://bespoyasov.ru/blog/clean-architecture-on-frontend/)
 21. 🔴 [Rendering Patterns]((https://www.patterns.dev/posts/))
+22. ⚪️ [Sticky footer layout](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Sticky_footers)
 
 ## 🥇 Stage gold
 
