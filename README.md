@@ -114,6 +114,7 @@
 26. 🟢 [Node.js debugging](https://nodejs.org/en/docs/guides/debugging-getting-started/)
 27. 🔴 [Design Patterns](https://www.patterns.dev/posts/)
 28. 🔴 [Performance Patterns](https://www.patterns.dev/posts/)
+29. 🔴 Антипаттерны. https://dev.koshovyi.com/category/programming/bad-practices/ https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD
 
 ## Frontend stack
 
