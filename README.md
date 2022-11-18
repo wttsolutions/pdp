@@ -84,6 +84,7 @@
 20. 🔵 [Clean Architecture on Frontend](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311), [RU Article](https://bespoyasov.ru/blog/clean-architecture-on-frontend/)
 21. 🔴 [Rendering Patterns]((https://www.patterns.dev/posts/))
 22. ⚪️ [Sticky footer layout](https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Sticky_footers)
+23. Server Sent Events https://learn.javascript.ru/server-sent-events
 
 ## 🥇 Stage gold
 
